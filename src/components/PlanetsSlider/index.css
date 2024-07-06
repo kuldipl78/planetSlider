@@ -1,0 +1,22 @@
+.main-container {
+  width: 100%;
+  padding-bottom: 10%;
+  padding: 10%;
+  background-color: rgb(37, 33, 46);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main-heading {
+  text-align: center;
+  font-size: 2rem;
+  color: #05acff;
+  margin-bottom: 20px;
+}
+.slider-container{
+  color: #ffff;
+  width: 60%;
+}
